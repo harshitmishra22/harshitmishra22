@@ -1,73 +1,94 @@
-<h1 align="center">Hi, I'm Harshit Mishra 👋</h1>
-<h3 align="center">Aspiring Java Backend Developer | B.Tech IT, Final Year</h3>
+<div align="center">
 
-<p align="center">
-  <img src="banner.svg" alt="Harshit Mishra banner" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e4d64&height=220&section=header&text=Harshit%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20things%20that%20matter&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="mailto:mishra.harshit.in@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/harshit-mishra-881640295"><img src="https://img.shields.io/badge/LinkedIn-0e4d64?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/harshitmishra22"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Problem+Solver+%7C+Clean+Code+Enthusiast;Always+Learning%2C+Always+Building;Turning+Ideas+Into+Products" alt="Typing SVG" />
 
----
+<br/>
 
-### About Me
+<a href="mailto:mishra.harshit.in@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/harshit-mishra-881640295"><img src="https://img.shields.io/badge/LinkedIn-0e4d64?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/harshitmishra22"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-I'm a final-year Information Technology student focused on becoming a **Java Backend Developer**. I'm building a solid foundation in core Java, data structures & algorithms, and backend fundamentals, and I'm currently expanding into SQL, Spring Boot, and REST APIs. This profile tracks real, in-progress work — no filler.
+</div>
 
-### 🧠 Currently Learning
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0e4d64?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)
+## 🚀 About Me
 
-### 🛠️ Tech Stack
+```python
+class HarshitMishra:
+    def __init__(self):
+        self.role = "Software Developer"
+        self.location = "India"
+        self.focus = ["Web Development", "Problem Solving", "System Design"]
+        self.currently_learning = "Always something new"
 
-**Languages & Core**
-![Java](https://img.shields.io/badge/-Java-0e4d64?style=flat-square&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-1a1a2e?style=flat-square)
-![OOP](https://img.shields.io/badge/-OOP-1a1a2e?style=flat-square)
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-1a1a2e?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)
-
-### 🎯 Roadmap (Next Up)
-
-- [ ] Hibernate & JPA
-- [ ] Docker
-- [ ] Redis
-- [ ] Kafka
-- [ ] Microservices architecture
-- [ ] AWS
-- [ ] System Design fundamentals
-
-### 📌 Featured Projects
-
-> _Add your actual repos here once you share them — this section is intentionally left as a template so nothing fabricated goes on your profile._
-
-```
-### [Project Name](repo-link)
-One-line description of what it does and why you built it.
-Tech: Java, X, Y
+me = HarshitMishra()
+me.say_hi()
 ```
 
-### 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitmishra22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2a9d8f&icon_color=2a9d8f" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitmishra22&theme=dark&hide_border=true&background=0d1117&ring=2a9d8f&fire=2a9d8f" height="165"/>
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmishra22&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2a9d8f" height="165"/>
-</p>
+<div align="center">
 
-### 📫 Contact
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,tailwind,git,github,docker,mongodb,mysql,postgres,figma,vscode,linux&theme=dark" />
 
-- Email:mishra.harshit.in@gmail.com
-- LinkedIn: [harshit-mishra-881640295](https://linkedin.com/in/harshit-mishra-881640295)
+</div>
 
-<p align="center"><sub>Building toward a career in Java backend development — one commit at a time.</sub></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshitmishra22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmishra22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitmishra22&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitmishra22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=ffffff" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/harshitmishra22/harshitmishra22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚠️ The snake animation above needs a one-time setup — see the **Setup Notes** at the bottom of this file.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mishra.harshit.in@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/harshit-mishra-881640295">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/harshitmishra22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=harshitmishra22&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4d64,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+</br>
+

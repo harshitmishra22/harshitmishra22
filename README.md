@@ -58,16 +58,6 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/harshitmishra22/harshitmishra22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚠️ The snake animation above needs a one-time setup — see the **Setup Notes** at the bottom of this file.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -89,6 +79,3 @@ me.say_hi()
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4d64,100:1a1a2e&height=120&section=footer" width="100%"/>
-
-</br>
-

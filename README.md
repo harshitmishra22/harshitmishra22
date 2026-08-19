@@ -58,6 +58,21 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
+## 📌 Projects
+
+<div align="center">
+
+<a href="https://github.com/harshitmishra22/AI-Driven-Student-Performance-Prediction">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitmishra22&repo=AI-Driven-Student-Performance-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/harshitmishra22/leetcode-solutions">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=harshitmishra22&repo=leetcode-solutions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -79,3 +94,5 @@ me.say_hi()
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4d64,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+

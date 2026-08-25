@@ -15,7 +15,7 @@
   <a href="mailto:mishra.harshit.in@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a1a2e?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/harshit-mishra-881640295">
+  <a href="https://www.linkedin.com/in/harshitmishra-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0e4d64?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/harshitmishra22">

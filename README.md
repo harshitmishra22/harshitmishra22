@@ -26,8 +26,8 @@ Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; VS Code &nbsp;•&nbsp; Figma &nbsp;�
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Student Management System](https://github.com/harshitmishra22) | Console application to manage student records with full CRUD, search, sorting and CSV persistence | Java, OOP, Collections |
-| Project Two | Short one-line description of what it does | React, Node.js |
+| [Student Management System](https://github.com/harshitmishra22/student-management-system) | Console application to manage student records with full CRUD, search, sorting and CSV persistence | Java, OOP, Collections |
+| [AI-Driven Student Performance Prediction](https://github.com/harshitmishra22/AI-Driven-Student-Performance-Prediction) | ML web app that predicts student performance (High/Medium/Low) from the xAPI-Edu-Data dataset, with a Streamlit dashboard | Python, Streamlit, Scikit-learn |
 | Project Three | Short one-line description of what it does | JavaScript, CSS |
 
 ---
